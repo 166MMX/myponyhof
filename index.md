@@ -1,4 +1,4 @@
-# My [wiktionary](Ponyhof)
+# My [Ponyhof](wiktionary)
 If would be all like sunshine and rainbows
 
 
