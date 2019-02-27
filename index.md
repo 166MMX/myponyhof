@@ -5,7 +5,7 @@ title: my ponyhof
 # my [ponyhof][wiktionary]
 If life would be all like sunshine and rainbows
 
-* [EFI][uefi] boot service driver implementation of [APFS][apfs] to be able to boot [macOS Mojave][mojave] with [VirtualBox][vbox], preferably written in [Rust][rust]
+* [EFI][uefi] boot service driver implementation of [APFS][apfs] to be able to boot [macOS Mojave][mojave] with [VirtualBox][vbox], preferably written in [Rust][rust].
 * [DAB+][dabp] stream recorder library with [ensemble][mux] listing support, supporting RTL2832U. Main goal is to have a highly energy efficient stream recorder that avoids to transcode the stream. The resulting binary should target hardware like a [Raspberry Pi][berrypie].
 * [Roland MT-32][mt32] [daughterboard][daughterboard] having [opto-isolators][optoisolator] to directly connect to the 16bit [PCM][pcm] [parallel bus][parallelcom] on the mainboard of the MT-32. The daughterboard would only be a "passive" board in terms of logic that only provides connectivity to the PCM bus. It would be permanently installed into the MT-32. This provides the ability to directly capture the PCM audio stream bypassing the [DAC][dac] to [ADC][adc] in order to eliminate any possible [signal noise][signalnoise] picked up during analog transmission and possible [ground loop][groundloop] interference. It would then be possible to achieve a noise free clean audio recording of [midi][midi] files composed for the MT-32. These could then be archived with a lossless encoded file.
 
