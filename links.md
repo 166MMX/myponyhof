@@ -1,6 +1,10 @@
 
 
 * git
+  * Commit message
+    * https://medium.com/@steveamaza/how-to-write-a-proper-git-commit-message-e028865e5791
+    * https://chris.beams.io/posts/git-commit/
+    * https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message
   * Git from the Bits Up – Tim Berglund – JAXConf
     * https://jaxenter.com/git-from-the-bits-up-tim-berglund-108264.html
     * https://www.youtube.com/watch?v=MYP56QJpDr4
@@ -43,5 +47,4 @@
   * https://codedive.pl/index/year2016
   * https://codedive.pl/index/speaker/name/kevlin-henney/year/2016/
   * https://www.youtube.com/watch?v=brfqm9k6qzc
-
 
