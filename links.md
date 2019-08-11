@@ -5,7 +5,8 @@
     * https://github.com/tlberglund
   * Advanced Git – Tim Berglund – JavaZone
     * https://vimeo.com/showcase/2079027/video/49444883
-  * Git Happens – Jessica Kerr – JDD
+  * Git Happens – Jessica Kerr
+    * https://www.youtube.com/watch?v=yCh6TSLIQBQ
     * http://12.jdd.org.pl/en/program/materials – NET::ERR_CERT_REVOKED
     * https://web.archive.org/web/20171126202345/http://12.jdd.org.pl/en/program/materials
     * https://www.youtube.com/watch?v=Dv8I_kfrFWw
