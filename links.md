@@ -28,3 +28,8 @@
   * https://yuiblog.com/blog/2009/02/02/video-resig-2/
   * https://johnresig.com/blog/the-dom-is-a-mess/
   * https://www.youtube.com/watch?v=dgI52y27O_I
+
+* Clean Coders Hate (…) When You Use These (…) Tricks – Kevlin Henney – code::dive 2016
+  * https://codedive.pl/index/year2016
+  * https://codedive.pl/index/speaker/name/kevlin-henney/year/2016/
+  * https://www.youtube.com/watch?v=brfqm9k6qzc
