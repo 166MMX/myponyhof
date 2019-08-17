@@ -7,24 +7,24 @@
     * ["Git pretty" Justin Hileman 2011-10-14][jh_2011_10_14]
 
 
-* "Git from the Bits Up" Tim Berglund
-  * [Video][tb_2013_06_05_v] [Schedule][tb_2013_06_05_s] _JAXConf_, 2013
+* "Git from the Bits Up" [Tim Berglund][tb]
+  * [Video][tb_2013_06_05_v] [Schedule][tb_2013_06_05_s] [_JAXConf_](https://web.archive.org/web/20161005215626/http://jaxconf.com/), 2013
 
 
-* "Advanced Git" Tim Berglund
-  * [Video][tb_2012_09_13_v] [Schedule][tb_2012_09_13_s] _JavaZone_, 2012
+* "Advanced Git" [Tim Berglund][tb]
+  * [Video][tb_2012_09_13_v] [Schedule][tb_2012_09_13_s] [_JavaZone_](https://www.javazone.no), 2012
 
 
-* "Git Happens" Jessica Kerr
-  * [Video][jk_2012_10_26_v] [Schedule][jk_2012_10_26_s] [PDF][jk_2012_10_26_p] _JDD Conference_, 2012 
-  * [Video][jk_2013_10_10_v] [Schedule][jk_2013_10_10_s] _PyCon Canada_, 2013
+* "Git Happens" [Jessica Kerr][jk]
+  * [Video][jk_2012_10_26_v] [Schedule][jk_2012_10_26_s] [PDF][jk_2012_10_26_p] [_JDD Conference_](https://jdd.org.pl/), 2012 
+  * [Video][jk_2013_10_10_v] [Schedule][jk_2013_10_10_s] [_PyCon Canada_](https://www.pycon.ca/), 2013
 
 
-* "Agility ≠ Speed" Kevlin Henney
-  * [Video][kh_2018_10_12_v] [Schedule][kh_2018_10_12_s] _Brewing Agile_, 2018
+* "Agility ≠ Speed" [Kevlin Henney][kh]
+  * [Video][kh_2018_10_12_v] [Schedule][kh_2018_10_12_s] [_Brewing Agile_](https://brewingagile.org/), 2018
 
-* "How to crash an airplane" Nickolas Means
-  * [Video](https://www.youtube.com/watch?v=099cHWSbAL8) _The Lead Developer_ 2016
+* "How to crash an airplane" [Nickolas Means][nm]
+  * [Video](https://www.youtube.com/watch?v=099cHWSbAL8) [_The Lead Developer_](https://www.theleaddeveloper.com/), [2016](https://2016.theleaddeveloper.com/)
 
 * Maintainable JavaScript – Nicholas Zakas – Yahoo YUI
   * https://yuiblog.com/blog/2007/05/25/video-zakas/
@@ -53,6 +53,10 @@
   * https://codedive.pl/index/speaker/name/kevlin-henney/year/2016/
   * https://www.youtube.com/watch?v=brfqm9k6qzc
 
+[tb]: http://timberglund.com/
+[jk]: http://jessitron.com/
+[kh]: https://about.me/kevlin
+[nm]: https://twitter.com/nmeans
 [kh_2018_10_12_v]: https://www.youtube.com/watch?v=kmFcNyZrUNM
 [kh_2018_10_12_s]: https://web.archive.org/web/20190311001722/https://brewingagile.org/
 [sa_2017_03_29]: https://medium.com/@steveamaza/how-to-write-a-proper-git-commit-message-e028865e5791
