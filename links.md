@@ -5,15 +5,23 @@
     * ["5 Useful Tips For A Better Commit Message" Caleb Thompson 2013-04-26][ct_2013_04_26]
   * Other
     * ["Git pretty" Justin Hileman 2011-10-14][jh_2011_10_14]
-  * "Git from the Bits Up" Tim Berglund
-    * _JAXConf_, 2013 [Schedule][tb_2013_06_05_s] [Video][tb_2013_06_05_v]
-  * "Advanced Git" Tim Berglund
-    * _JavaZone_, 2012 [Schedule][tb_2012_09_13_s] [Video][tb_2012_09_13_v]
-  * "Git Happens" Jessica Kerr
-    * _JDD Conference_, 2012 [Schedule][jk_2012_10_26_s] [PDF][jk_2012_10_26_p] [Video][jk_2012_10_26_v]
-    * _PyCon Canada_, 2013 [Schedule][jk_2013_10_10_s] [Video][jk_2013_10_10_v]
-* Agile
-  * "Agility ≠ Speed" Kevlin Henney _Brewing Agile_, 2018 [Schedule][kh_2018_10_12_s] [Video][kh_2018_10_12_v]
+
+
+* "Git from the Bits Up" Tim Berglund
+  * [Video][tb_2013_06_05_v] [Schedule][tb_2013_06_05_s] _JAXConf_, 2013
+
+
+* "Advanced Git" Tim Berglund
+  * [Video][tb_2012_09_13_v] [Schedule][tb_2012_09_13_s] _JavaZone_, 2012
+
+
+* "Git Happens" Jessica Kerr
+  * [Video][jk_2012_10_26_v] [Schedule][jk_2012_10_26_s] [PDF][jk_2012_10_26_p] _JDD Conference_, 2012 
+  * [Video][jk_2013_10_10_v] [Schedule][jk_2013_10_10_s] _PyCon Canada_, 2013
+
+
+* "Agility ≠ Speed" Kevlin Henney
+  * [Video][kh_2018_10_12_v] [Schedule][kh_2018_10_12_s] _Brewing Agile_, 2018
 
 
 * Maintainable JavaScript – Nicholas Zakas – Yahoo YUI
