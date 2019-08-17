@@ -12,7 +12,7 @@
 [jh_2011_10_14]: http://justinhileman.info/article/git-pretty/
 
 * "Git from the Bits Up" [Tim Berglund][tb]
-  * [Video][tb_2013_06_05_v] [Schedule][tb_2013_06_05_s] [_JAXConf_][conf_jax], 2013
+  * [Video][tb_2013_06_05_v] [Schedule][tb_2013_06_05_s] @[_JAXConf_][conf_jax], 2013
 
 [tb]: http://timberglund.com/
 [tb_2013_06_05]: https://web.archive.org/web/20160415112301/http://jaxconf.com/sessions/git-bits
@@ -21,7 +21,7 @@
 [conf_jax]: https://web.archive.org/web/20161005215626/http://jaxconf.com/
 
 * "Advanced Git" [Tim Berglund][tb]
-  * [Video][tb_2012_09_13_v] [Schedule][tb_2012_09_13_s] [_JavaZone_][conf_jz], [2012][conf_jz_12]
+  * [Video][tb_2012_09_13_v] [Schedule][tb_2012_09_13_s]  @[_JavaZone_][conf_jz], [2012][conf_jz_12]
 
 [tb_2012_09_13_s]: https://web.archive.org/web/20140723012623/http://javazone.no/incogito10/events/JavaZone%202012/sessions
 [tb_2012_09_13_v]: https://vimeo.com/showcase/2079027/video/49444883
@@ -29,8 +29,8 @@
 [conf_jz_12]: https://web.archive.org/web/20150321215025/http://jz12.java.no/
 
 * "Git Happens" [Jessica Kerr][jk]
-  * [Video][jk_2012_10_26_v] [Schedule][jk_2012_10_26_s] [PDF][jk_2012_10_26_p] [_JDD Conference_][conf_jdd], [2012][conf_jdd_12]
-  * [Video][jk_2013_10_10_v] [Schedule][jk_2013_10_10_s] [_PyCon Canada_][conf_pyca], [2013][conf_pyca_13]
+  * [Video][jk_2012_10_26_v] [Schedule][jk_2012_10_26_s] [PDF][jk_2012_10_26_p]  @[_JDD Conference_][conf_jdd], [2012][conf_jdd_12]
+  * [Video][jk_2013_10_10_v] [Schedule][jk_2013_10_10_s]  @[_PyCon Canada_][conf_pyca], [2013][conf_pyca_13]
 
 [jk]: http://jessitron.com/
 [jk_2012_10_26_s]: http://12.jdd.org.pl/en/program/schedule
@@ -44,7 +44,7 @@
 [conf_pyca_13]: https://2013.pycon.ca/
 
 * "Agility ≠ Speed" [Kevlin Henney][kh]
-  * [Video][kh_2018_10_12_v] [Schedule][kh_2018_10_12_s] [_Brewing Agile_][conf_ba], 2018
+  * [Video][kh_2018_10_12_v] [Schedule][kh_2018_10_12_s]  @[_Brewing Agile_][conf_ba], 2018
 
 [kh]: https://about.me/kevlin
 [kh_2018_10_12_v]: https://www.youtube.com/watch?v=kmFcNyZrUNM
@@ -52,7 +52,7 @@
 [conf_ba]: https://brewingagile.org/
 
 * "How to crash an airplane" [Nickolas Means][nm]
-  * [Video][nm_2016_06_23_v] [Schedule][nm_2016_06_23_s] [_The Lead Developer_][conf_tld], [2016][conf_tld_16]
+  * [Video][nm_2016_06_23_v] [Schedule][nm_2016_06_23_s]  @[_The Lead Developer_][conf_tld], [2016][conf_tld_16]
 
 [nm]: https://twitter.com/nmeans
 [nm_2016_06_23_s]: https://2016.theleaddeveloper.com/schedule
