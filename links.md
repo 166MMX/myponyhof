@@ -23,6 +23,8 @@
 * "Agility ≠ Speed" Kevlin Henney
   * [Video][kh_2018_10_12_v] [Schedule][kh_2018_10_12_s] _Brewing Agile_, 2018
 
+* "How to crash an airplane" Nickolas Means
+  * [Video](https://www.youtube.com/watch?v=099cHWSbAL8) _The Lead Developer_ 2016
 
 * Maintainable JavaScript – Nicholas Zakas – Yahoo YUI
   * https://yuiblog.com/blog/2007/05/25/video-zakas/
