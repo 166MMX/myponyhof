@@ -2,16 +2,18 @@
 
 * git
   * Commit message
-    * https://medium.com/@steveamaza/how-to-write-a-proper-git-commit-message-e028865e5791
-    * https://chris.beams.io/posts/git-commit/
-    * https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message
-  * Git from the Bits Up – Tim Berglund – JAXConf
-    * https://jaxenter.com/git-from-the-bits-up-tim-berglund-108264.html
-    * https://www.youtube.com/watch?v=MYP56QJpDr4
-    * https://github.com/tlberglund
-  * Advanced Git – Tim Berglund – JavaZone
-    * https://vimeo.com/showcase/2079027/video/49444883
-  * Git Happens – Jessica Kerr
+    * [Stephen Amaza "How To Write Proper Git Commit Messages" _Medium_, 2017-03-29](https://medium.com/@steveamaza/how-to-write-a-proper-git-commit-message-e028865e5791)
+    * [Chris Beams "How to Write a Git Commit Message" 2014-08-31](https://chris.beams.io/posts/git-commit/)
+    * [Caleb Thompson "5 Useful Tips For A Better Commit Message" 2013-04-26](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message)
+  * Tim Berglund "Git from the Bits Up" 
+    * _JAXConf_ 2013-06-05
+      * [JAXConf](https://web.archive.org/web/20160415112301/http://jaxconf.com/sessions/git-bits)
+      * [YouTube](https://www.youtube.com/watch?v=MYP56QJpDr4)
+  * Tim Berglund "Advanced Git"
+    * _JavaZone_ 2012-09-13
+      * [JavaZone](https://web.archive.org/web/20140723012623/http://javazone.no/incogito10/events/JavaZone%202012/sessions)
+      * [Vimeo](https://vimeo.com/showcase/2079027/video/49444883)
+  * Jessica Kerr "Git Happens"
     * http://jessitron.com/talks.html
     * https://www.youtube.com/watch?v=yCh6TSLIQBQ
     * http://12.jdd.org.pl/en/program/materials – NET::ERR_CERT_REVOKED
