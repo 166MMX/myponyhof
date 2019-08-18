@@ -44,12 +44,21 @@
 [conf_pyca_13]: https://2013.pycon.ca/
 
 * "Agility ≠ Speed" [Kevlin Henney][kh]
-  * [Video][kh_2018_10_12_v] [Schedule][kh_2018_10_12_s]  @[_Brewing Agile_][conf_ba], 2018
+  * [Video][kh_2018_10_12_v] [Schedule][kh_2018_10_12_s] @[_Brewing Agile_][conf_ba], 2018
 
 [kh]: https://about.me/kevlin
 [kh_2018_10_12_v]: https://www.youtube.com/watch?v=kmFcNyZrUNM
 [kh_2018_10_12_s]: https://web.archive.org/web/20190311001722/https://brewingagile.org/
 [conf_ba]: https://brewingagile.org/
+
+* "Clean Coders Hate (…) When You Use These (…) Tricks" [Kevlin Henney][kh]
+  * [Video][kh_2016_11_15_v] [Slides][kh_2016_11_15_s] [Schedule][kh_2016_11_15_t] [_code::dive_][conf_cd], [2016][conf_cd_16]
+
+[conf_cd]: https://codedive.pl/
+[conf_cd_16]: https://codedive.pl/index/year2016
+[kh_2016_11_15_t]: https://web.archive.org/web/20161124175233/http://codedive.pl/en/index/#program-section
+[kh_2016_11_15_s]: https://cdn2-ecros.pl/event/codedive/files/presentations/2016/CleanCodersHateWhatHappensToYourCodeWhenYouUseTheseEnterpriseProgrammingTricks.pptx
+[kh_2016_11_15_v]: https://www.youtube.com/watch?v=brfqm9k6qzc
 
 * "How to crash an airplane" [Nickolas Means][nm]
   * [Video][nm_2016_06_23_v] [Schedule][nm_2016_06_23_s]  @[_The Lead Developer_][conf_tld], [2016][conf_tld_16]
@@ -60,10 +69,12 @@
 [conf_tld]: https://www.theleaddeveloper.com/
 [conf_tld_16]: https://2016.theleaddeveloper.com/
 
-* Maintainable JavaScript – Nicholas Zakas – Yahoo YUI
-  * https://yuiblog.com/blog/2007/05/25/video-zakas/
-  * https://www.youtube.com/watch?v=pebHk8S5c6o
-  * https://www.slideshare.net/nzakas/maintainable-javascript-1071179
+* "Maintainable JavaScript" [Nicholas Zakas][nz]
+  * [Video][nz_2007_03_07_v] [Slides][nz_2007_03_07_s] @_Yahoo! FrontEnd Engineering Summit_, 2007
+  
+[nz]: https://humanwhocodes.com/
+[nz_2007_03_07_v]: https://www.youtube.com/watch?v=pebHk8S5c6o
+[nz_2007_03_07_s]: https://www.slideshare.net/nzakas/maintainable-javascript-1071179
 
 
 * High-performance JavaScript: Why Everything You’ve Been Taught is Wrong – Joseph Smarr – Open Source Convention 2007
@@ -77,9 +88,3 @@
   * https://yuiblog.com/blog/2009/02/02/video-resig-2/
   * https://johnresig.com/blog/the-dom-is-a-mess/
   * https://www.youtube.com/watch?v=dgI52y27O_I
-
-
-* Clean Coders Hate (…) When You Use These (…) Tricks – Kevlin Henney – code::dive 2016
-  * https://codedive.pl/index/year2016
-  * https://codedive.pl/index/speaker/name/kevlin-henney/year/2016/
-  * https://www.youtube.com/watch?v=brfqm9k6qzc
