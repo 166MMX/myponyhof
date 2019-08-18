@@ -77,7 +77,7 @@
 [nz_2007_03_07_v]: https://www.youtube.com/watch?v=pebHk8S5c6o
 [nz_2007_03_07_s]: https://www.slideshare.net/nzakas/maintainable-javascript-1071179
 [nz_2007_03_07_b]: https://web.archive.org/web/20140703104736/http://yuiblog.com/blog/2007/05/25/video-zakas/
-[nz_2012_05_30_s]: https://www.youtube.com/watch?v=nZihjH6_Qns
+[nz_2012_05_30_v]: https://www.youtube.com/watch?v=nZihjH6_Qns
 [nz_2012_05_30_s]: https://web.archive.org/web/20151003145906/http://fluentconf.com/fluent2012/public/schedule/grid/public/2012-05-30
 [conf_fluent]: https://conferences.oreilly.com/fluent/fl-ca
 [conf_fluent_12]: https://web.archive.org/web/20151003145906/http://fluentconf.com/fluent2012/
