@@ -78,12 +78,15 @@
 
 
 * "High-performance JavaScript: Why Everything You’ve Been Taught is Wrong" [Joseph Smarr][js]
-  * [Video][js_2007_08 27_v] @_Yahoo!_, 2007
+  * [Video][js_2007_08_27_v] [Slides][js_2007_08_27_s] @_Yahoo!_, 2007
 
 [js]: http://josephsmarr.com/
-[js_2007_08 27_v]: https://www.youtube.com/watch?v=QszjZfvl9vw
+[js_2007_08_27_v]: https://www.youtube.com/watch?v=QszjZfvl9vw
+[js_2007_08_27_s]: http://josephsmarr.com/papers/Smarr-OSCON-2007.ppt
 
-* The DOM Is a Mess – John Resig – Yahoo YUI
-  * https://yuiblog.com/blog/2009/02/02/video-resig-2/
-  * https://johnresig.com/blog/the-dom-is-a-mess/
-  * https://www.youtube.com/watch?v=dgI52y27O_I
+* "The DOM Is a Mess" [John Resig][jr]
+  * [Video][jr_2009_01_29_v] [Slides][jr_2009_01_29_s 27_s] @_Yahoo!_, 2009
+
+[jr]: https://johnresig.com/blog/the-dom-is-a-mess/
+[jr_2009_01_29_s]: http://www.slideshare.net/jeresig/the-dom-is-a-mess-yahoo?type=presentation
+[jr_2009_01_29_v]: https://www.youtube.com/watch?v=dgI52y27O_I
