@@ -61,7 +61,7 @@
 [kh_2016_11_15_v]: https://www.youtube.com/watch?v=brfqm9k6qzc
 
 * "How to crash an airplane" [Nickolas Means][nm]
-  * [Video][nm_2016_06_23_v] [Schedule][nm_2016_06_23_s]  @[_The Lead Developer_][conf_tld], [2016][conf_tld_16]
+  * [Video][nm_2016_06_23_v] [Schedule][nm_2016_06_23_s] @[_The Lead Developer_][conf_tld], [2016][conf_tld_16]
 
 [nm]: https://twitter.com/nmeans
 [nm_2016_06_23_s]: https://2016.theleaddeveloper.com/schedule
@@ -71,11 +71,16 @@
 
 * "Maintainable JavaScript" [Nicholas Zakas][nz]
   * [Video][nz_2007_03_07_v] [Slides][nz_2007_03_07_s] [Blog][nz_2007_03_07_b] @_Yahoo! FrontEnd Engineering Summit_, 2007
+  * [Video][nz_2012_05_30_v] [Schedule][nz_2012_05_30_s] @[_Fluent_][conf_fluent], [2012][conf_fluent_12]
   
 [nz]: https://humanwhocodes.com/
 [nz_2007_03_07_v]: https://www.youtube.com/watch?v=pebHk8S5c6o
 [nz_2007_03_07_s]: https://www.slideshare.net/nzakas/maintainable-javascript-1071179
 [nz_2007_03_07_b]: https://web.archive.org/web/20140703104736/http://yuiblog.com/blog/2007/05/25/video-zakas/
+[nz_2012_05_30_s]: https://www.youtube.com/watch?v=nZihjH6_Qns
+[nz_2012_05_30_s]: https://web.archive.org/web/20151003145906/http://fluentconf.com/fluent2012/public/schedule/grid/public/2012-05-30
+[conf_fluent]: https://conferences.oreilly.com/fluent/fl-ca
+[conf_fluent_12]: https://web.archive.org/web/20151003145906/http://fluentconf.com/fluent2012/
 
 
 * "High-performance JavaScript: Why Everything You’ve Been Taught is Wrong" [Joseph Smarr][js]
