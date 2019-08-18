@@ -70,11 +70,12 @@
 [conf_tld_16]: https://2016.theleaddeveloper.com/
 
 * "Maintainable JavaScript" [Nicholas Zakas][nz]
-  * [Video][nz_2007_03_07_v] [Slides][nz_2007_03_07_s] @_Yahoo! FrontEnd Engineering Summit_, 2007
+  * [Video][nz_2007_03_07_v] [Slides][nz_2007_03_07_s] [Blog][nz_2007_03_07_b] @_Yahoo! FrontEnd Engineering Summit_, 2007
   
 [nz]: https://humanwhocodes.com/
 [nz_2007_03_07_v]: https://www.youtube.com/watch?v=pebHk8S5c6o
 [nz_2007_03_07_s]: https://www.slideshare.net/nzakas/maintainable-javascript-1071179
+[nz_2007_03_07_b]: https://web.archive.org/web/20140703104736/http://yuiblog.com/blog/2007/05/25/video-zakas/
 
 
 * "High-performance JavaScript: Why Everything You’ve Been Taught is Wrong" [Joseph Smarr][js]
