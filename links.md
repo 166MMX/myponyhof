@@ -52,7 +52,7 @@
 [conf_ba]: https://brewingagile.org/
 
 * "Clean Coders Hate (…) When You Use These (…) Tricks" [Kevlin Henney][kh]
-  * [Video][kh_2016_11_15_v] [Slides][kh_2016_11_15_s] [Schedule][kh_2016_11_15_t] [_code::dive_][conf_cd], [2016][conf_cd_16]
+  * [Video][kh_2016_11_15_v] [Slides][kh_2016_11_15_s] [Schedule][kh_2016_11_15_t] @[_code::dive_][conf_cd], [2016][conf_cd_16]
 
 [conf_cd]: https://codedive.pl/
 [conf_cd_16]: https://codedive.pl/index/year2016
