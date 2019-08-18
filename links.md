@@ -29,14 +29,14 @@
 [conf_jz_12]: https://web.archive.org/web/20150321215025/http://jz12.java.no/
 
 * "Git Happens" [Jessica Kerr][jk]
-  * [Video][jk_2012_10_26_v] [Schedule][jk_2012_10_26_s] [PDF][jk_2012_10_26_p]  @[_JDD Conference_][conf_jdd], [2012][conf_jdd_12]
-  * [Video][jk_2013_10_10_v] [Schedule][jk_2013_10_10_s]  @[_PyCon Canada_][conf_pyca], [2013][conf_pyca_13]
+  * [Video][jk_2012_10_26_v] [Schedule][jk_2012_10_26_t] [Slides][jk_2012_10_26_s]  @[_JDD Conference_][conf_jdd], [2012][conf_jdd_12]
+  * [Video][jk_2013_10_10_v] [Schedule][jk_2013_10_10_t]  @[_PyCon Canada_][conf_pyca], [2013][conf_pyca_13]
 
 [jk]: http://jessitron.com/
-[jk_2012_10_26_s]: http://12.jdd.org.pl/en/program/schedule
-[jk_2012_10_26_p]: http://www.data.proidea.org.pl/jdd/7edycja/materialy/prezentacje/kerrjessica_gitHappens.pdf
+[jk_2012_10_26_t]: http://12.jdd.org.pl/en/program/schedule
+[jk_2012_10_26_s]: http://www.data.proidea.org.pl/jdd/7edycja/materialy/prezentacje/kerrjessica_gitHappens.pdf
 [jk_2012_10_26_v]: https://www.youtube.com/watch?v=Dv8I_kfrFWw
-[jk_2013_10_10_s]: https://2013.pycon.ca/en/schedule/
+[jk_2013_10_10_t]: https://2013.pycon.ca/en/schedule/
 [jk_2013_10_10_v]: https://www.youtube.com/watch?v=yCh6TSLIQBQ
 [conf_jdd]: https://jdd.org.pl/
 [conf_jdd_12]: http://12.jdd.org.pl/
@@ -77,12 +77,11 @@
 [nz_2007_03_07_s]: https://www.slideshare.net/nzakas/maintainable-javascript-1071179
 
 
-* High-performance JavaScript: Why Everything You’ve Been Taught is Wrong – Joseph Smarr – Open Source Convention 2007
-  * https://yuiblog.com/blog/2007/08/29/video-smarr/
-  * http://conferences.oreillynet.com/pub/w/58/presentations.html
-  * http://josephsmarr.com/2007/07/25/high-performance-javascript-oscon-2007/
-  * https://www.youtube.com/watch?v=QszjZfvl9vw
+* "High-performance JavaScript: Why Everything You’ve Been Taught is Wrong" [Joseph Smarr][js]
+  * [Video][js_2007_08 27_v] @_Yahoo!_, 2007
 
+[js]: http://josephsmarr.com/
+[js_2007_08 27_v]: https://www.youtube.com/watch?v=QszjZfvl9vw
 
 * The DOM Is a Mess – John Resig – Yahoo YUI
   * https://yuiblog.com/blog/2009/02/02/video-resig-2/
