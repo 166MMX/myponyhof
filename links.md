@@ -85,7 +85,7 @@
 [js_2007_08_27_s]: http://josephsmarr.com/papers/Smarr-OSCON-2007.ppt
 
 * "The DOM Is a Mess" [John Resig][jr]
-  * [Video][jr_2009_01_29_v] [Slides][jr_2009_01_29_s 27_s] @_Yahoo!_, 2009
+  * [Video][jr_2009_01_29_v] [Slides][jr_2009_01_29_s] @_Yahoo!_, 2009
 
 [jr]: https://johnresig.com/blog/the-dom-is-a-mess/
 [jr_2009_01_29_s]: http://www.slideshare.net/jeresig/the-dom-is-a-mess-yahoo?type=presentation
