@@ -96,3 +96,11 @@
 [jr]: https://johnresig.com/blog/the-dom-is-a-mess/
 [jr_2009_01_29_s]: http://www.slideshare.net/jeresig/the-dom-is-a-mess-yahoo?type=presentation
 [jr_2009_01_29_v]: https://www.youtube.com/watch?v=dgI52y27O_I
+
+* "Frege - konsequent funktionale Programmierung für die JVM" [Dierk König][dk]
+  * [Video][dk_2016_05_19_v] [Schedule][dk_2016_05_19_t] @[_Java User Group Hessen_][conf_jugh], 2016
+
+[dk]: https://dierk.github.io/Home/
+[dk_2016_05_19_v]: https://www.youtube.com/watch?v=pef3GwktgtM
+[dk_2016_05_19_t]: https://www.meetup.com/Java-User-Group-Hessen-JUGH/events/230839507/
+[conf_jugh]: https://jugh.de/
