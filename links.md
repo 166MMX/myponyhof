@@ -16,6 +16,7 @@
   * [!YT - What Games Are Like For Someone Who Doesn't Play Games](https://www.youtube.com/watch?v=ax7f3JZJHSw)
   * [!YT - How to deal with existentialist horror - SOMA](https://www.youtube.com/watch?v=tTZi7tRDsiY)
   * [!YT - Deontological Ethics - Bioshock 2](https://www.youtube.com/watch?v=c3cs5btV18E)
+  * [!YT - Mark Benecke - Was ist Wahrheit? Mit vielen lustigen Beispielen.](https://www.youtube.com/watch?v=s-jl71UNB3U)
   
 
 [sa_2017_03_29]: https://medium.com/@steveamaza/how-to-write-a-proper-git-commit-message-e028865e5791
