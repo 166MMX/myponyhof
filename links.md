@@ -10,8 +10,9 @@
 * rust
   * [a-guide-to-porting-c-to-rust](https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust)
   * [!YT - Rust Out Your C by Carol (Nichols || Goulding) - Erie Day of Code](https://www.youtube.com/watch?v=SKGVItFlK3w)
-  
-*
+
+
+* note worthy stuff
   * [!YT - What Games Are Like For Someone Who Doesn't Play Games](https://www.youtube.com/watch?v=ax7f3JZJHSw)
   * [!YT - How to deal with existentialist horror - SOMA](https://www.youtube.com/watch?v=tTZi7tRDsiY)
   * [!YT - Deontological Ethics - Bioshock 2](https://www.youtube.com/watch?v=c3cs5btV18E)
