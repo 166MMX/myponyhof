@@ -6,6 +6,17 @@
   * Other
     * ["Git pretty" Justin Hileman 2011-10-14][jh_2011_10_14]
 
+
+* rust
+  * [a-guide-to-porting-c-to-rust](https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust)
+  * [!YT - Rust Out Your C by Carol (Nichols || Goulding) - Erie Day of Code](https://www.youtube.com/watch?v=SKGVItFlK3w)
+  
+*
+  * [!YT - What Games Are Like For Someone Who Doesn't Play Games](https://www.youtube.com/watch?v=ax7f3JZJHSw)
+  * [!YT - How to deal with existentialist horror - SOMA](https://www.youtube.com/watch?v=tTZi7tRDsiY)
+  * [!YT - Deontological Ethics - Bioshock 2](https://www.youtube.com/watch?v=c3cs5btV18E)
+  
+
 [sa_2017_03_29]: https://medium.com/@steveamaza/how-to-write-a-proper-git-commit-message-e028865e5791
 [ca_2014_08_31]: https://chris.beams.io/posts/git-commit/
 [ct_2013_04_26]: https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message
