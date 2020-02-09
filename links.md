@@ -5,6 +5,7 @@
     * ["5 Useful Tips For A Better Commit Message" Caleb Thompson 2013-04-26][ct_2013_04_26]
   * Other
     * ["Git pretty" Justin Hileman 2011-10-14][jh_2011_10_14]
+    * https://trunkbaseddevelopment.com/youre-doing-it-wrong/
 
 
 * rust
