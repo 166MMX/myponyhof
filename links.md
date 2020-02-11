@@ -118,3 +118,6 @@
 [dk_2016_05_19_v]: https://www.youtube.com/watch?v=pef3GwktgtM
 [dk_2016_05_19_t]: https://www.meetup.com/Java-User-Group-Hessen-JUGH/events/230839507/
 [conf_jugh]: https://jugh.de/
+
+## random
+* https://www.maizure.org/projects/decoded-gnu-coreutils/
