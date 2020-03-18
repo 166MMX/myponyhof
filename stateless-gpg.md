@@ -4,13 +4,17 @@ gpg (GnuPG) 2.2.19
 libgcrypt 1.8.5
 ```
 
+
+All these operations are secure as long as one validates and trusts key fingerprint!
+
+
 - ascii armored to gpg binary packets:
 
       gpg --dearmor --out RPM-GPG-KEY-CentOS-7.gpg RPM-GPG-KEY-CentOS-7
 
 - verify and return message with attached signature:
 
-      gpg --no-default-keyring --keyring ./RPM-GPG-KEY-CentOS-7.gpg --decrypt sha256sum.txt.asc
+      gpg --no-default-keyring --keyring ./RPM-GPG-KEY-CentOS-7.gpg --decrypt sha256sum.txt.asc | shasum --ignore-missing -c -
 
 - verify signed message with detached signature:
 
